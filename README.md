@@ -44,8 +44,8 @@ The dataset contains simulated financial transactions with the following feature
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection.git
-cd fraud-detection
+git clone https://github.com/AlexandruMihaiVrabie/Fraud-Detection.git
+cd Fraud-Detection
 ```
 
 ### 2. Create a virtual environment
