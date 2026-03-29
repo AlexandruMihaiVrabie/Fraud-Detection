@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Archive
+archive.zip
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+AIML Dataset.csv
